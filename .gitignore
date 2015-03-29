@@ -1,0 +1,12 @@
+*~
+*.exe
+*.hi
+*.o
+*.save*
+dist/*
+.cabal-sandbox/*
+*.cabal
+TAGS
+*.in
+*.out
+*.config
